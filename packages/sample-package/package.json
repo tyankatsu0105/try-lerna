@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/tyankatsu0105/try-lerna/issues"
+  },
+  "dependencies": {
+    "sample-package-utils": "^0.0.0"
   }
 }
