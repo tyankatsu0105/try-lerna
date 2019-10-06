@@ -1,0 +1,22 @@
+{
+  "name": "try-lerna",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyankatsu0105/try-lerna.git"
+  },
+  "author": "tyankatsu <frips.ryilsufupe+dev@gmail.com> (https://tyankatsu.netlify.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyankatsu0105/try-lerna/issues"
+  },
+  "homepage": "https://github.com/tyankatsu0105/try-lerna#readme",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
+}
