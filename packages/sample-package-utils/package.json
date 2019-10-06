@@ -1,0 +1,26 @@
+{
+  "name": "sample-package-utils",
+  "version": "0.0.0",
+  "description": "sample-package用のutils",
+  "author": "tyankatsu <frips.ryilsufupe+dev@gmail.com>",
+  "homepage": "https://github.com/tyankatsu0105/try-lerna/tree/master/packages/sample-package-utils#readme",
+  "license": "ISC",
+  "main": "lib/sample-package-utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyankatsu0105/try-lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/tyankatsu0105/try-lerna/issues"
+  }
+}
